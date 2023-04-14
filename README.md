@@ -1,6 +1,6 @@
 # Ian Rector Data Science Project Page
 
-[# Project 1: RShiny tool utilizing Singscore](https://https://github.com/ivr8bt/Singscore-RSHiny)
+#[Project 1: RShiny tool utilizing Singscore](https://https://github.com/ivr8bt/Singscore-RSHiny)
 This is a tool that I built for my company that utilizes the BioConductor package "Singscore" to rank genes based on their expression in a data set. Genes that are more expressed receive a higher rank. The tool allows the user to input a number for the x number of top genes. For example, if the user were to input 50 then a .xslsx file will be created that shows the 50 highest ranking genes in the dataset. There is an additional component where the user can input a list of genes as a .xlsx file and a .xlsx file will be produced that shows the rank of each of those genes.
 
 # Project 2: Machine Learning on Califonia Lupus Epidemiology Study Dataset
