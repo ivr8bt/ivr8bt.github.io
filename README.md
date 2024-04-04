@@ -9,7 +9,7 @@ I ran 9 different ML algorithms on the California Lupus Epidemiology Study (CLUE
 # [Project 3: Regression on German]
 Blah blah blah
 
-# [Project 4: EDA on Covid]
+# [Project 4: EDA on Covid](https://github.com/ivr8bt/European-Covid)
 blah blah blah
 
 # [Project 5: EDA on UNHCR Data](https://github.com/ivr8bt/UNHCR-Refugee)
