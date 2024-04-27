@@ -7,13 +7,13 @@ This is a tool that I built for my company that utilizes the BioConductor packag
 I ran 9 different ML algorithms on the California Lupus Epidemiology Study (CLUES) to distinguish active from inactive disease. These included Naive Baye's, Logistic Regression, Decision Trees, Random Forest, Linear Discriminant Analysis, Adaboost, Gradient Boosting Classifier, K-nearest neighbor classifier and SVM. Unfortunately the results were not great, but almost all lupus datasets have very low sample sizes. However, feature selection using Gini importance yielded interesting results as to the best features for predicting disease activity. This is a project that I worked on but the code is not available since it is proprietary information of AMPEL Biosolutions. However, the results and methodology can be obtained [here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10503349/).
 
 # [Project 3: German Credit Risk](https://github.com/ivr8bt/German_credit_risk)
-Blah blah blah
+Regression on German credit risk. Utilized many different techniques including random forest regression, polynomial regression, linear regression and a fully connected deep neural netowrk. 
 
 # [Project 4: EDA on Covid](https://github.com/ivr8bt/European-Covid)
-blah blah blah
+Data analysis on European Covid data from 2020 through 2022 using R. Conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression.
 
 # [Project 5: EDA on UNHCR Data](https://github.com/ivr8bt/UNHCR-Refugee)
-blah blah blah
+EDA on UNHCR data from 1975 through 2021. Examined trends in refugee flows over this time period using data from the UN High Comissioner for Refugees.
 
 # [Project 6: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
-blah blah blah
+Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in top the 10% of Kaggle scores.
