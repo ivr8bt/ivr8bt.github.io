@@ -17,3 +17,9 @@ EDA on UNHCR data from 1975 through 2021. Examined trends in refugee flows over 
 
 # [Project 6: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in top the 10% of Kaggle scores.
+
+# [Project 7: Classification of MNIST Images] (https://github.com/ivr8bt/MNIST-Classification)
+Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979.
+
+# [Project 8: Classification of Cifar10 Images] (https://github.com/ivr8bt/Cifar10-Classification)
+Classification of Cifar10 images using both Deep neural networks and created convolutional neural networks as well as two pretrained networks: ResNet and VGG16. Train set of 50,000 images and test set of 10,000 images. Best test accuracy was 0.735.
