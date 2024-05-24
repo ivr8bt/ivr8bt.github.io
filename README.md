@@ -23,3 +23,6 @@ Classification of MNIST data using Deep Neural networks of various sizes and nod
 
 # [Project 8: Classification of Cifar10 Images](https://github.com/ivr8bt/Cifar10-Classification)
 Classification of Cifar10 images using both Deep neural networks and created convolutional neural networks as well as two pretrained networks: ResNet and VGG16. Train set of 50,000 images and test set of 10,000 images. Best test accuracy was 0.735.
+
+# [Project 9: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/Cifar10-Classification)
+Classification of AG News dataset into business, sports, science/tech and world news using simple RNNs, LSTMs and GRUs. Train set of 114,000 articles, validation set of 6,000 articles and test set of 7,600 articles. Able to achieve 86% test accuracy on test set.
