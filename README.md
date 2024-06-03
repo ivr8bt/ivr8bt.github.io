@@ -26,3 +26,5 @@ Classification of Cifar10 images using both Deep neural networks and created con
 
 # [Project 9: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/AG-News)
 Classification of AG News dataset into business, sports, science/tech and world news using simple RNNs, LSTMs and GRUs. Train set of 114,000 articles, validation set of 6,000 articles and test set of 7,600 articles. Able to achieve 86% test accuracy on test set.
+
+# [Project 10: CNN Pre-built Architecture Analysis](https://github.com/ivr8bt/CNN-Architecture-Analysis)
