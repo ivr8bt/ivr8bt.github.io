@@ -16,7 +16,7 @@ Classification of Cifar10 images using both Deep neural networks and created con
 Classification of AG News dataset into business, sports, science/tech and world news using simple RNNs, LSTMs and GRUs. Train set of 114,000 articles, validation set of 6,000 articles and test set of 7,600 articles. Able to achieve 86% test accuracy on test set.
 
 # [Project 6: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid)
-Data analysis on European Covid data from 2020 through 2022 using R. Conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression.
+Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
 
 # [Project 7: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
