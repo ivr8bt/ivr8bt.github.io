@@ -19,7 +19,7 @@ Classification of AG News dataset into business, sports, science/tech and world 
 Data analysis on European Covid data from 2020 through 2022 using R. Conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression.
 
 # [Project 7: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
-EDA on UNHCR data from 1975 through 2021. Examined trends in refugee flows over this time period using data from the UN High Comissioner for Refugees.
+Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
 # [Project 8: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in the top 10% of Kaggle scores.
