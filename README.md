@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Ian Rector Data Science Portfolio Page
 
 # [Project 1: Machine Learning on Califonia Lupus Epidemiology Study Dataset](https://github.com/ivr8bt/CLUES-ML)
