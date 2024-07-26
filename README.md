@@ -19,6 +19,8 @@ Classification of AG News dataset into business, sports, science/tech and world 
 # [Project 5: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
 Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
 
+![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Covid%20Deaths%20over%20time.png)
+
 # [Project 6: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
