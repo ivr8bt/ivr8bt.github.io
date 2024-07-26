@@ -6,7 +6,9 @@ I ran 9 different supervised learning algorithms on the California Lupus Epidemi
 ![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Figure%206.png)
 
 # [Project 2: CNN Pre-built Architecture Analysis](https://github.com/ivr8bt/CNN-Architecture-Analysis)
-I analyze the LeNet5, VGG16, InceptionV3 and ResNet50 architectures on 4 different datasets: Cifar10, Cats vs. Dogs Redux: Kernel addition, Eurosat and Horses vs. Humans. Each of these datasets involve different kinds of comparison. 2 are multiclass and 2 are binary classification problems. The datasets also have different image sizes and numbers of images. I found that VGG16 and InnceptionV3 performed the best across all 4 datasets. InceptionV3 was overall the best since it had comparable accuracy to VGG16 with an average accuracy of 86% across the four datasets; however, it was significantly faster than VGG16.
+I analyze the LeNet5, VGG16, InceptionV3 and ResNet50 architectures on 4 different datasets: Cifar10, Cats vs. Dogs Redux: Kernel addition, Eurosat and Horses vs. Humans. Each of these datasets involve different kinds of comparison. 2 are multiclass and 2 are binary classification problems. The datasets also have different image sizes and numbers of images. I found that VGG16 and InnceptionV3 performed the best across all 4 datasets. InceptionV3 was overall the best since it had comparable accuracy to VGG16 with an average accuracy of 86% across the four datasets; however, it was significantly faster than VGG16. Below are plots depicting the training and validation loss and accuracy for the VGG16 model on the dogs versus cats dataset:
+
+![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Training%20Accuracy%20for%20Dogs%20vs%20Cats.png)
 
 # [Project 3: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
 Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979.
