@@ -24,3 +24,5 @@ Exploratory Data Analysis examining refugee flows 1975-2021 using data from the 
 
 # [Project 7: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in the top 10% of Kaggle scores.
+
+![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Correlation%20Heatmap%20for%20Ames%20Housing.png)
