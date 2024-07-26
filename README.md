@@ -11,19 +11,16 @@ I analyze the LeNet5, VGG16, InceptionV3 and ResNet50 architectures on 4 differe
 # [Project 3: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
 Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979.
 
-# [Project 4: Classification of Cifar10 Images](https://github.com/ivr8bt/Cifar10-Classification)
-Classification of Cifar10 images using both Deep neural networks and created convolutional neural networks as well as two pretrained networks: ResNet and VGG16. Train set of 50,000 images and test set of 10,000 images. Best test accuracy was 0.735.
-
-# [Project 5: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/AG-News)
+# [Project 4: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/AG-News)
 Classification of AG News dataset into business, sports, science/tech and world news using simple RNNs, LSTMs and GRUs. Train set of 114,000 articles, validation set of 6,000 articles and test set of 7,600 articles. Able to achieve 86% test accuracy on test set.
 
 ![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Results%20Table.png)
 
-# [Project 6: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
+# [Project 5: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
 Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
 
-# [Project 7: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
+# [Project 6: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
-# [Project 8: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
+# [Project 7: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in the top 10% of Kaggle scores.
