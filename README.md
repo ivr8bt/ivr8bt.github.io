@@ -22,7 +22,7 @@ Data analysis on European Covid data from 2020 through 2022 using R. I conducted
 # [Project 6: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
-![]()
+![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Refugees%20by%20country.png)
 
 # [Project 7: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in the top 10% of Kaggle scores.
