@@ -10,13 +10,15 @@ I analyze the LeNet5, VGG16, InceptionV3 and ResNet50 architectures on 4 differe
 
 ![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Training%20Accuracy%20for%20Dogs%20vs%20Cats.png)
 
-# [Project 3: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
-Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979.
-
-# [Project 4: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/AG-News)
+# [Project 3: Classification of News Data using AG News Dataset](https://github.com/ivr8bt/AG-News)
 Classification of AG News dataset into business, sports, science/tech and world news using simple RNNs, LSTMs and GRUs. Train set of 114,000 articles, validation set of 6,000 articles and test set of 7,600 articles. Able to achieve 86% test accuracy on test set.
 
 ![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Results%20Table.png)
+
+# [Project 4: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
+Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979. Below is a plot showing the explained variance by number of PCA components for the 784 pixel features in the MNIST dataset.
+
+![](https://github.com/ivr8bt/ivr8bt.github.io/blob/main/Explained%20Variance%20ratio%20for%20PCA.png)
 
 # [Project 5: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
 Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
