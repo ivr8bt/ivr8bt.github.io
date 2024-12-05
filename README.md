@@ -23,22 +23,22 @@ The primary objective of this project is to develop a predictive model using the
 The dataset only consisted of 1000 people, so after EDA we decided to use the missforest imputation method to fill in missing data. We evaluated 3 different models: simpl linear regression, random forest regression and a deep neural network and found that the DNN performed the best with a R^2 value of 0.537.
 
 
-# [Project 4: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
+# [Project 5: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
 Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979. Below is a plot showing the explained variance by number of PCA components for the 784 pixel features in the MNIST dataset.
 
 ![](/images/Explained%20Variance%20ratio%20for%20PCA.png)
 
-# [Project 5: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
+# [Project 6: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
 Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
 
 ![](/images/Covid%20Deaths%20over%20time.png)
 
-# [Project 6: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
+# [Project 7: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
 ![](/images/Refugees%20by%20country.png)
 
-# [Project 7: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
+# [Project 8: Regression on Ames Housing Dataset](https://github.com/ivr8bt/Ames_Kaggle)
 Regression on Ames Housing Dataset on Kaggle. Utilized random forest regression, gradient boosting regression and ridge regression. Achieved results in the top 10% of Kaggle scores.
 
 ![](/images/Correlation%20Heatmap%20for%20Ames%20Housing.png)
