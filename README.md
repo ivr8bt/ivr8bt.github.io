@@ -18,6 +18,11 @@ Classification of AG News dataset into business, sports, science/tech and world 
 
 ![](/images/Results%20Table.png)
 
+# [Project 4: Predicting German Credit Risk](https://github.com/ivr8bt/German_credit_risk)
+The primary objective of this project is to develop a predictive model using the German credit risk dataset that can accurately forecast the credit amount that potential borrowers are likely to receive.
+The dataset only consisted of 1000 people, so after EDA we decided to use the missforest imputation method to fill in missing data. We evaluated 3 different models: simpl linear regression, random forest regression and a deep neural network and found that the DNN performed the best with a R^2 value of 0.537.
+
+
 # [Project 4: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
 Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979. Below is a plot showing the explained variance by number of PCA components for the 784 pixel features in the MNIST dataset.
 
