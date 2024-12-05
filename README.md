@@ -21,22 +21,24 @@ Classification of AG News dataset into business, sports, science/tech and world 
 # [Project 4: Abstractive Article Summarization using Transformers](https://github.com/ivr8bt/Article-Summarization)
 I compared five different LLM models to see how well they could summarize 30 different genetics articles obtained using the newspaper3k package from US News and World Report. I created the ground truth for the summaries by prompting Chat-GPT4.0 to generate the summaries in a specific manner. I used the t5-small, Pegasus-xsum, Pegasus-Large, Pegasus-CNN/DailyMail and BART-Large models to generate summaries and compared them to the ground truth. I evaluated the precision, recall and f1-score of the models using ROUGE. The BART model exhibited the best performance. The models generally had a similar performance with the exception of the Pegasus-xsum model that was good at creating short summaries, but when parameters were tweaked to create longer summaries did not perform well. However, from a qualitative standpoint the summaries created by the Pegasus-xsum model were the best written due to the brevity of the summaries. Overall, the summaries generated were much shorter than the Chat-GPT generated summaries, which resulted in low recall scores.
 
-# [Project 4: Predicting German Credit Risk](https://github.com/ivr8bt/German_credit_risk)
+# [Project 5: EV Charging Station Optimization]()
+In this project, my group and I addressed the complex optimization problem of strategically installing electric vehicle (EV) charging plugs in public parking lots across Chicago Downtown, specifically in the zip code area 60601, 60602, 60603, and 60604. Our research methodology involved formulating a mixed-integer multi-objective linear programming (MILP) model, incorporating variables for fast and slow charging plugs and binary decisions for initiating installations. Parameters such as the capacity of parking lots, the charging efficiencies of plugs, and average energy usage per mile of EVs were crucial inputs. We utilized network analysis to consider the cumulative effect of multiple nearby parking lots on demand satisfaction and distribution limits. We determined that 8 additional charging station needed to be added in the loop.
+
+# [Project 6: Predicting German Credit Risk](https://github.com/ivr8bt/German_credit_risk)
 The primary objective of this project is to develop a predictive model using the German credit risk dataset that can accurately forecast the credit amount that potential borrowers are likely to receive.
 The dataset only consisted of 1000 people, so after EDA we decided to use the missforest imputation method to fill in missing data. We evaluated 3 different models: simpl linear regression, random forest regression and a deep neural network and found that the DNN performed the best with a R^2 value of 0.537.
 
-
-# [Project 5: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
+# [Project 7: Classification of MNIST Images](https://github.com/ivr8bt/MNIST-Classification)
 Classification of MNIST data using Deep Neural networks of various sizes and nodes. Train set of 60,000 and test set of 10,000 images. Greatest accuracy on the test set was 0.979. Below is a plot showing the explained variance by number of PCA components for the 784 pixel features in the MNIST dataset.
 
 ![](/images/Explained%20Variance%20ratio%20for%20PCA.png)
 
-# [Project 6: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
+# [Project 8: EDA on European Covid Dataset](https://github.com/ivr8bt/European-Covid-2020-2022)
 Data analysis on European Covid data from 2020 through 2022 using R. I conducted exploratory data analysis, hypothesis testing using the Wilcoxon Rank Sum test, explored correlation and conducted autoregression. I looked at the rate of covid incidence and infection among all European countries and then focused in on France and Germany to identify trends in infection and incidence rates over time in the two countries.
 
 ![](/images/Covid%20Deaths%20over%20time.png)
 
-# [Project 7: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
+# [Project 9: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
 Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
 
 ![](/images/Refugees%20by%20country.png)
