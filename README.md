@@ -18,6 +18,9 @@ Classification of AG News dataset into business, sports, science/tech and world 
 
 ![](/images/Results%20Table.png)
 
+# [Project 4: Abstractive Article Summarization using Transformers](https://github.com/ivr8bt/Article-Summarization)
+I compared five different LLM models to see how well they could summarize 30 different genetics articles obtained using the newspaper3k package from US News and World Report. I created the ground truth for the summaries by prompting Chat-GPT4.0 to generate the summaries in a specific manner. I used the t5-small, Pegasus-xsum, Pegasus-Large, Pegasus-CNN/DailyMail and BART-Large models to generate summaries and compared them to the ground truth. I evaluated the precision, recall and f1-score of the models using ROUGE. The BART model exhibited the best performance. The models generally had a similar performance with the exception of the Pegasus-xsum model that was good at creating short summaries, but when parameters were tweaked to create longer summaries did not perform well. However, from a qualitative standpoint the summaries created by the Pegasus-xsum model were the best written due to the brevity of the summaries. Overall, the summaries generated were much shorter than the Chat-GPT generated summaries, which resulted in low recall scores.
+
 # [Project 4: Predicting German Credit Risk](https://github.com/ivr8bt/German_credit_risk)
 The primary objective of this project is to develop a predictive model using the German credit risk dataset that can accurately forecast the credit amount that potential borrowers are likely to receive.
 The dataset only consisted of 1000 people, so after EDA we decided to use the missforest imputation method to fill in missing data. We evaluated 3 different models: simpl linear regression, random forest regression and a deep neural network and found that the DNN performed the best with a R^2 value of 0.537.
