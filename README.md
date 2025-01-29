@@ -45,7 +45,7 @@ Data analysis on European Covid data from 2020 through 2022 using R. I conducted
 ![](/images/Covid%20Deaths%20over%20time.png)
 
 # [Project 9: EDA on UNHCR Refugee Data](https://github.com/ivr8bt/UNHCR-Refugee)
-Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they go to by decade as well as cumulatively.
+Exploratory Data Analysis examining refugee flows 1975-2021 using data from the UN High Comissioner for Refugees. I identified the top countries where refugees flee from and where they went to by decade as well as cumulatively.
 
 ![](/images/Refugees%20by%20country.png)
 
